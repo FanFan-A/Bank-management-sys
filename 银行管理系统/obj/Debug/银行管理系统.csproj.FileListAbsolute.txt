@@ -1,0 +1,17 @@
+D:\C#\银行管理系统\银行管理系统\bin\Debug\银行管理系统.exe.config
+D:\C#\银行管理系统\银行管理系统\bin\Debug\银行管理系统.exe
+D:\C#\银行管理系统\银行管理系统\bin\Debug\银行管理系统.pdb
+D:\C#\银行管理系统\银行管理系统\obj\Debug\银行管理系统.csprojResolveAssemblyReference.cache
+D:\C#\银行管理系统\银行管理系统\obj\Debug\银行管理系统.Properties.Resources.resources
+D:\C#\银行管理系统\银行管理系统\obj\Debug\银行管理系统.csproj.GenerateResource.cache
+D:\C#\银行管理系统\银行管理系统\obj\Debug\银行管理系统.csproj.CoreCompileInputs.cache
+D:\C#\银行管理系统\银行管理系统\obj\Debug\银行管理系统.exe
+D:\C#\银行管理系统\银行管理系统\obj\Debug\银行管理系统.pdb
+D:\C#\银行管理系统\银行管理系统\obj\Debug\银行管理系统.Administrator.resources
+D:\C#\银行管理系统\银行管理系统\obj\Debug\银行管理系统.Initial.resources
+D:\C#\银行管理系统\银行管理系统\obj\Debug\银行管理系统.User.resources
+D:\C#\银行管理系统\银行管理系统\obj\Debug\银行管理系统.WithdrawMoney.resources
+D:\C#\银行管理系统\银行管理系统\obj\Debug\银行管理系统.SaveMoney.resources
+D:\C#\银行管理系统\银行管理系统\obj\Debug\银行管理系统.OpenAccount.resources
+D:\C#\银行管理系统\银行管理系统\obj\Debug\银行管理系统.Forget.resources
+D:\C#\银行管理系统\银行管理系统\obj\Debug\银行管理系统.Transfer.resources
